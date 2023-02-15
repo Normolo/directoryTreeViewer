@@ -1,6 +1,0 @@
-@echo off
-echo Generating directory tree...
-tree /a /f > dir_tree.txt
-echo Done! Opening dir_tree.txt...
-start notepad dir_tree.txt
-pause>nul
