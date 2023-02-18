@@ -11,5 +11,7 @@ Execute the bat program by double-clicking on the file. It will generate the dir
 The program requires admin rights to access some folders. If you encounter any access denied errors, right-click the file and select **"Run as administrator"**.
 The generated `dir_tree.txt` file can be edited and saved like any other text file.
 The program uses the `tree` command to generate the directory tree. This command is only available on Windows operating systems.
+As this is a really new `.exe` file, it is flagged as malware by security vendors. It is **not** malware. Below is a screenshot of a virustotal scan. ![virus total scan](https://media.discordapp.net/attachments/996391788992528384/1076485900688691261/image.png)
+
 ### License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as you see fit.
